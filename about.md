@@ -20,6 +20,7 @@ If you would like to contribute to this project, we welcome your help:
 
 * All of our work is coordinated through Code for America's Slack team in the `#hurricane_api` channel. To join, visit the [Code for America Brigade Program](https://brigade.codeforamerica.org/) and click on **Join us on Slack**.
 * Much of our technology work happens through Github in the [`hurricane-response` organization](https://github.com/hurricane-response).
+* View our [past responses](https://www.hurricane-response.org/past-responses/)
 * To join the volunteers calling people, join the Slack team first. Folks there will connect you with the information you need to help out effectively.
 
 You can also make tax-deductible [donations to Code for America](https://www.codeforamerica.org/donate).
